@@ -27,7 +27,10 @@ O(n) which is ideal.
 ## Structure
 
 input: 512 bit chunks
+
 chunks: 16, 32 bit chunks
+
 Output: 96 bit numbers
+
 rounds:48
 
